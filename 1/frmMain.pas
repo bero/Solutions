@@ -26,9 +26,6 @@ implementation
 {$R *.dfm}
 
 uses
-  frmDialog,
-  frmdialogA,
-  frmDialogB,
   RegisterGUI,
   DemoInterface;
 
